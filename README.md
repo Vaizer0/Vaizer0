@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaizer0
-- 👀 I’m interested in 
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning *
 - 💞️ I’m looking to collaborate on *
 - 📫 telegram: @Vaizero_Official
       Instagram: vaizero126
