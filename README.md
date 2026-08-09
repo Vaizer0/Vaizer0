@@ -48,8 +48,9 @@ I'm a **Master's student in Industrial Mathematics with Computer Applications** 
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaizer0&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaizer0&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaizer0&query=public_repos&label=Public%20Repos&color=58A6FF&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaizer0&query=followers&label=Followers&color=58A6FF&style=for-the-badge&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaizer0&query=following&label=Following&color=58A6FF&style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
