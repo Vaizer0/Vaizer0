@@ -8,13 +8,12 @@
 
 ## 🧭 About Me
 
-I'm a **Master's student in Industrial Mathematics with Computer Applications** at **Savitribai Phule Pune University**, building things at the intersection of **mathematics, data, and software**.
+My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scientist & Software Developer. I'm from Pune, India — currently living in **Jupiter** and working at the Great Red Spot Data Processing Center (the gravity makes debugging a little harder, but the data up here is out of this world).
 
-- 📍 **Currently residing on Jupiter** — yes, really. The Great Red Spot view from my desk is unmatched, and the WiFi is surprisingly decent (the latency to Earth is a bit rough, but it builds character).
 - 🎓 **Education**: M.Sc. Industrial Mathematics with Computer Applications — SPPU, Pune
-- 🧮 I enjoy transforming data into actionable insights and solving complex problems with **mathematical and statistical techniques**
-- 🏃 When I'm not training models, I'm training my chess Elo, chasing a cricket ball, or chasing deadlines
-- 🔒 Certified curiosity: I like understanding how systems (and security) work under the hood
+- 🧮 I turn data into insights and problems into equations
+- 🏃 When I'm not training models, I'm training my chess Elo or chasing a cricket ball
+- 🔒 I like understanding how systems (and security) work under the hood
 
 ---
 
@@ -76,9 +75,9 @@ I'm a **Master's student in Industrial Mathematics with Computer Applications** 
 
 ## 🌌 Fun Facts
 
-- 🪐 I live on **Jupiter**. Yes, *that* Jupiter. The commute to Earth is roughly 588 million km — I take the express lane.
-- ♟️ I play chess the way I write code: think 5 moves ahead, still get checkmated by edge cases.
-- 🏏 My cricket statistics and my model accuracy have one thing in common: both are *improving steadily*.
+- 🪐 I live on Jupiter. Yes, *that* Jupiter. The commute to Earth is 588 million km, but I take the express lane.
+- ♟️ I play chess the way I write code — think 5 moves ahead, still get checkmated by edge cases.
+- 🏏 My cricket statistics and my model accuracy improve at roughly the same rate.
 - 🔒 I'm into ethical hacking — breaking into systems is just debugging with legal consequences.
 
 ---
