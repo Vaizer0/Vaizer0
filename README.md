@@ -55,14 +55,25 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [**NoveLA**](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels & ranobe — 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass |
-| [**WebnovelReader**](https://github.com/Vaizer0/WebnovelReader) | Webnovel reader app for Android with translation and offline reading |
-| [**android-apk-builder**](https://github.com/Vaizer0/android-apk-builder) | Build Android APKs using GitHub Actions — no local Android Studio needed |
-| [**telegram-ai-bot**](https://github.com/Vaizer0/telegram-ai-bot) | AI-powered Telegram bot |
-| Lane Detection using ML | CNN-based lane detection for real-time applications (Python, OpenCV) |
-| Food Delivery Time Prediction | Predictive model for delivery time estimation (Python, ML) |
+> Auto-synced daily with my live repositories — adds and deletions appear automatically.
+
+<!-- PROJECTS:START -->
+| Repo | Description | Language | Type |
+|---|---|---|---|
+| [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | 🍴 fork of HnDK0/NoveLA |
+| [WebnovelReader](https://github.com/Vaizer0/WebnovelReader) | A webnovel reader app for Android with translation and offline reading features | Python | 🍴 fork of Nabeelshar/WebnovelReader |
+| [telegram-ai-bot](https://github.com/Vaizer0/telegram-ai-bot) | — | Python | — |
+| [skills-introduction-to-github](https://github.com/Vaizer0/skills-introduction-to-github) | My clone repository | — | — |
+| [android-apk-builder](https://github.com/Vaizer0/android-apk-builder) | Build Android APKs using GitHub Actions without installing Android Studio locally | — | 🍴 fork of wasishah33/android-apk-builder |
+| [demo](https://github.com/Vaizer0/demo) | this is a demo repository | — | — |
+| [Online-food-delivery-time-prdeiction](https://github.com/Vaizer0/Online-food-delivery-time-prdeiction) | — | Jupyter Notebook | — |
+| [grab](https://github.com/Vaizer0/grab) | Git Repo Apk Builder | — | 🍴 fork of Yanndroid/grab |
+<!-- PROJECTS:END -->
+
+**Selected academic work** (not repos):
+
+- Lane Detection using ML — CNN-based lane detection for real-time applications (Python, OpenCV)
+- Food Delivery Time Prediction — predictive model for delivery time estimation (Python, ML)
 
 ---
 
