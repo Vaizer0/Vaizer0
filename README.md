@@ -66,6 +66,7 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 | [WebnovelReader](https://github.com/Vaizer0/WebnovelReader) | A webnovel reader app for Android with translation and offline reading features | Python | 🍴 fork of Nabeelshar/WebnovelReader |
 | [telegram-ai-bot](https://github.com/Vaizer0/telegram-ai-bot) | — | Python | — |
 | [TachiyomiSY](https://github.com/Vaizer0/TachiyomiSY) | Free and open source manga reader for Android | — | 🍴 fork of jobobby04/TachiyomiSY |
+| [plugin-dev](https://github.com/Vaizer0/plugin-dev) | — | — | 🍴 fork of HnDK0/plugin-dev |
 | [skills-introduction-to-github](https://github.com/Vaizer0/skills-introduction-to-github) | My clone repository | — | — |
 | [android-apk-builder](https://github.com/Vaizer0/android-apk-builder) | Build Android APKs using GitHub Actions without installing Android Studio locally | — | 🍴 fork of wasishah33/android-apk-builder |
 | [demo](https://github.com/Vaizer0/demo) | this is a demo repository | — | — |
