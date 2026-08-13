@@ -60,6 +60,7 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 <!-- PROJECTS:START -->
 | Repo | Description | Language | Type |
 |---|---|---|---|
+| [zero-termux](https://github.com/Vaizer0/zero-termux) | Unified Termux ecosystem for Android developers: a modular bash CLI, AI and developer tools, automation, and a signed APT package repository. | Shell | — |
 | [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | 🍴 fork of HnDK0/NoveLA |
 | [TachiyomiAT](https://github.com/Vaizer0/TachiyomiAT) | Free and open source manga reader for Android | Kotlin | 🍴 fork of mannu691/TachiyomiAT |
 | [MangaTranslator](https://github.com/Vaizer0/MangaTranslator) | Manga translation app powered by AI | — | 🍴 fork of meangrinch/MangaTranslator |
