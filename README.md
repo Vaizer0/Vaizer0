@@ -60,13 +60,12 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 <!-- PROJECTS:START -->
 | Repo | Description | Language | Type |
 |---|---|---|---|
-| [zero-termux](https://github.com/Vaizer0/zero-termux) | Unified Termux ecosystem for Android developers: a modular bash CLI, AI and developer tools, automation, and a signed APT package repository. | Shell | — |
 | [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | 🍴 fork of HnDK0/NoveLA |
+| [zero-termux](https://github.com/Vaizer0/zero-termux) | Unified Termux ecosystem for Android developers: a modular bash CLI, AI and developer tools, automation, and a signed APT package repository. | Shell | — |
 | [TachiyomiAT](https://github.com/Vaizer0/TachiyomiAT) | Free and open source manga reader for Android | Kotlin | 🍴 fork of mannu691/TachiyomiAT |
 | [MangaTranslator](https://github.com/Vaizer0/MangaTranslator) | Manga translation app powered by AI | — | 🍴 fork of meangrinch/MangaTranslator |
 | [WebnovelReader](https://github.com/Vaizer0/WebnovelReader) | A webnovel reader app for Android with translation and offline reading features | Python | 🍴 fork of Nabeelshar/WebnovelReader |
 | [telegram-ai-bot](https://github.com/Vaizer0/telegram-ai-bot) | — | Python | — |
-| [TachiyomiSY](https://github.com/Vaizer0/TachiyomiSY) | Free and open source manga reader for Android | — | 🍴 fork of jobobby04/TachiyomiSY |
 | [plugin-dev](https://github.com/Vaizer0/plugin-dev) | — | — | 🍴 fork of HnDK0/plugin-dev |
 | [skills-introduction-to-github](https://github.com/Vaizer0/skills-introduction-to-github) | My clone repository | — | — |
 | [android-apk-builder](https://github.com/Vaizer0/android-apk-builder) | Build Android APKs using GitHub Actions without installing Android Studio locally | — | 🍴 fork of wasishah33/android-apk-builder |
