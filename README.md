@@ -60,6 +60,7 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 <!-- PROJECTS:START -->
 | Repo | Description | Language | Type |
 |---|---|---|---|
+| [plugin-dev](https://github.com/Vaizer0/plugin-dev) | — | — | 🍴 fork of HnDK0/plugin-dev |
 | [external-sources](https://github.com/Vaizer0/external-sources) | Source for NoveLA | Lua | 🍴 fork of HnDK0/external-sources |
 | [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | 🍴 fork of HnDK0/NoveLA |
 | [novela-web](https://github.com/Vaizer0/novela-web) | NoveLA web port — novel reader (Lua plugin sources) hosted on Netlify | Lua | — |
@@ -69,7 +70,6 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 | [MangaTranslator](https://github.com/Vaizer0/MangaTranslator) | Manga translation app powered by AI | — | 🍴 fork of meangrinch/MangaTranslator |
 | [WebnovelReader](https://github.com/Vaizer0/WebnovelReader) | A webnovel reader app for Android with translation and offline reading features | Python | 🍴 fork of Nabeelshar/WebnovelReader |
 | [telegram-ai-bot](https://github.com/Vaizer0/telegram-ai-bot) | — | Python | — |
-| [plugin-dev](https://github.com/Vaizer0/plugin-dev) | — | — | 🍴 fork of HnDK0/plugin-dev |
 | [skills-introduction-to-github](https://github.com/Vaizer0/skills-introduction-to-github) | My clone repository | — | — |
 | [android-apk-builder](https://github.com/Vaizer0/android-apk-builder) | Build Android APKs using GitHub Actions without installing Android Studio locally | — | 🍴 fork of wasishah33/android-apk-builder |
 | [demo](https://github.com/Vaizer0/demo) | this is a demo repository | — | — |
