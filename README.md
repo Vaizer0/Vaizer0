@@ -60,7 +60,9 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 <!-- PROJECTS:START -->
 | Repo | Description | Language | Type |
 |---|---|---|---|
-| [VoxEngine](https://github.com/Vaizer0/VoxEngine) | Android 系统级 TTS 语音合成引擎，支持小米mimotts多引擎切换、音色克隆与设计。注册为系统 TTS 服务后，任意支持系统语音合成的应用均可直接调用。 | Kotlin | — |
+| [lnreader](https://github.com/Vaizer0/lnreader) | Light novel reader for Android. | TypeScript | 🍴 fork of lnreader/lnreader |
+| [lnreader-plugins](https://github.com/Vaizer0/lnreader-plugins) | Repository to host plugin related issues, and requests for LNReader | — | 🍴 fork of lnreader/lnreader-plugins |
+| [VoxEngine](https://github.com/Vaizer0/VoxEngine) | Android system-level TTS speech synthesis engine with pluggable engine switching (MiMo, Microsoft Edge, and free offline sherpa-onnx voices), voice cloning, and voice design. Once set as the system TTS service, any app that uses Android text-to-speech can call it directly. | Kotlin | — |
 | [external-sources](https://github.com/Vaizer0/external-sources) | Source for NoveLA | Lua | 🍴 fork of HnDK0/external-sources |
 | [plugin-dev](https://github.com/Vaizer0/plugin-dev) | — | — | 🍴 fork of HnDK0/plugin-dev |
 | [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | 🍴 fork of HnDK0/NoveLA |
