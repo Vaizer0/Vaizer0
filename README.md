@@ -60,7 +60,7 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 <!-- PROJECTS:START -->
 | Repo | Description | Language | Type |
 |---|---|---|---|
-| [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | 🍴 fork of HnDK0/NoveLA |
+| [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | — |
 | [lnreader](https://github.com/Vaizer0/lnreader) | Free & open-source light novel and webnovel reader for Android — built-in AI translation (MTL), NoveLA-style TTS with spoken-word highlighting, 25+ sources, EPUB. | TypeScript | 🍴 fork of lnreader/lnreader |
 | [lnreader-plugins](https://github.com/Vaizer0/lnreader-plugins) | Repository to host plugin related issues, and requests for LNReader | TypeScript | 🍴 fork of lnreader/lnreader-plugins |
 | [external-sources](https://github.com/Vaizer0/external-sources) | Source for NoveLA | Lua | 🍴 fork of HnDK0/external-sources |
