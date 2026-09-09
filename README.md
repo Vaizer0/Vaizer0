@@ -53,40 +53,6 @@ My name is **Vaibhav Hegadkar** and I'm a Machine Learning enthusiast, Data Scie
 
 ---
 
-## 🚀 Projects
-
-> Auto-synced daily with my live repositories — adds and deletions appear automatically.
-
-<!-- PROJECTS:START -->
-| Repo | Description | Language | Type |
-|---|---|---|---|
-| [NoveLA](https://github.com/Vaizer0/NoveLA) | Free Android reader for web novels, light novels, ranobe & EPUB. 25+ sources, built-in Google/Gemini translator, TTS, offline reading, Cloudflare bypass. Alternative to LNReader & NovelDokusha. | Kotlin | — |
-| [lnreader](https://github.com/Vaizer0/lnreader) | Free & open-source light novel and webnovel reader for Android — built-in AI translation (MTL), NoveLA-style TTS with spoken-word highlighting, 25+ sources, EPUB. | TypeScript | 🍴 fork of lnreader/lnreader |
-| [lnreader-plugins](https://github.com/Vaizer0/lnreader-plugins) | Repository to host plugin related issues, and requests for LNReader | TypeScript | 🍴 fork of lnreader/lnreader-plugins |
-| [external-sources](https://github.com/Vaizer0/external-sources) | Source for NoveLA | Lua | 🍴 fork of HnDK0/external-sources |
-| [VoxEngine](https://github.com/Vaizer0/VoxEngine) | Android system-level TTS speech synthesis engine with pluggable engine switching (MiMo, Microsoft Edge, and free offline sherpa-onnx voices), voice cloning, and voice design. Once set as the system TTS service, any app that uses Android text-to-speech can call it directly. | Kotlin | — |
-| [plugin-dev](https://github.com/Vaizer0/plugin-dev) | — | — | 🍴 fork of HnDK0/plugin-dev |
-| [novela-web](https://github.com/Vaizer0/novela-web) | NoveLA web port — novel reader (Lua plugin sources) hosted on Netlify | Lua | — |
-| [vaizer0.github.io](https://github.com/Vaizer0/vaizer0.github.io) | Redirect to novela-web app | HTML | — |
-| [zero-termux](https://github.com/Vaizer0/zero-termux) | Unified Termux ecosystem for Android developers: a modular bash CLI, AI and developer tools, automation, and a signed APT package repository. | Shell | — |
-| [TachiyomiAT](https://github.com/Vaizer0/TachiyomiAT) | Free and open source manga reader for Android | Kotlin | 🍴 fork of mannu691/TachiyomiAT |
-| [MangaTranslator](https://github.com/Vaizer0/MangaTranslator) | Manga translation app powered by AI | — | 🍴 fork of meangrinch/MangaTranslator |
-| [WebnovelReader](https://github.com/Vaizer0/WebnovelReader) | A webnovel reader app for Android with translation and offline reading features | Python | 🍴 fork of Nabeelshar/WebnovelReader |
-| [telegram-ai-bot](https://github.com/Vaizer0/telegram-ai-bot) | — | Python | — |
-| [skills-introduction-to-github](https://github.com/Vaizer0/skills-introduction-to-github) | My clone repository | — | — |
-| [android-apk-builder](https://github.com/Vaizer0/android-apk-builder) | Build Android APKs using GitHub Actions without installing Android Studio locally | — | 🍴 fork of wasishah33/android-apk-builder |
-| [demo](https://github.com/Vaizer0/demo) | this is a demo repository | — | — |
-| [Online-food-delivery-time-prdeiction](https://github.com/Vaizer0/Online-food-delivery-time-prdeiction) | — | Jupyter Notebook | — |
-| [grab](https://github.com/Vaizer0/grab) | Git Repo Apk Builder | — | 🍴 fork of Yanndroid/grab |
-<!-- PROJECTS:END -->
-
-**Selected academic work** (not repos):
-
-- Lane Detection using ML — CNN-based lane detection for real-time applications (Python, OpenCV)
-- Food Delivery Time Prediction — predictive model for delivery time estimation (Python, ML)
-
----
-
 ## 🎓 Certifications
 
 - 📜 **Data Associate** — Symbiosis Skills and Professional University
